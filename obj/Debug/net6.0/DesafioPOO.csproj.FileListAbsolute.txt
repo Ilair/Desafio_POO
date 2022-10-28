@@ -1,0 +1,15 @@
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\bin\Debug\net6.0\DesafioPOO.exe
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\bin\Debug\net6.0\DesafioPOO.dll
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\bin\Debug\net6.0\DesafioPOO.pdb
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.dll
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.pdb
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioPOO\Desafio_POO\obj\Debug\net6.0\ref\DesafioPOO.dll
